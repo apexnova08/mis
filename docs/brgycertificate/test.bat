@@ -1,0 +1,1 @@
+WINWORD.EXE print.docx /mFilePrintDefault /mFileExit /q /n
